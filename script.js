@@ -94,8 +94,6 @@ button.addEventListener("click", (e) => {
       asideLogos.classList.remove("aside-logo-background-red");
       calc();
       resetAsideLogos();
-      resetRadio();
-      resetRadioContainer();
     }
   });
 });
